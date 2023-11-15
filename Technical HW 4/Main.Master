@@ -45,8 +45,8 @@
             <div style="display: flex; flex-direction: row; justify-content: space-around; width: 25%">
                 <a href="Default.aspx">Default Page</a>
                 <a href="PageTwo.aspx">Page Two</a>
-                <a href="PageThree.aspx">Page Two</a>
-                <a href="PageFour.aspx">Page Two</a>
+                <a href="PageThree.aspx">Page Three</a>
+                <a href="PageFour.aspx">Page Four</a>
             </div>
         </div>
         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
