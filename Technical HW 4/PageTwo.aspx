@@ -13,13 +13,14 @@
         #container {
             margin: 8rem auto auto auto;
             padding: 1rem;
-            background-color: aquamarine;
+            background-color: rgba(127, 255, 212, .4);
             width: 25%;
         }
 
-        body {
-            background-image: url();
-        }
+       body {
+    background-image: url(https://img.freepik.com/free-vector/cute-pets-illustration_53876-112522.jpg?w=2000&t=st=1700015241~exp=1700015841~hmac=414f535bd0148ba7ae45d7dd8de4f031befcb42cc5e639e6f644e3813dfc9bb7);
+    background-size: cover;
+}
     </style>
 
     <div id="container" class="col-12 mb-5 justify-content-center text-center">
