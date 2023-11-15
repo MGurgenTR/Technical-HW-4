@@ -75,21 +75,13 @@
                 </div>
             </div>
         </div>
-
-
-
-
-
-
-
-
     </div>
 
+<%--    Source:--%>
+<%--    https://www.goodrx.com/classes/pet-medications--%>
+
+  <%--  BootStrap:
+    https://getbootstrap.com/docs/5.0/components/accordion/--%>
 
 
-
-
-
-
-    </div>
 </asp:Content>
