@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Main.Master" AutoEventWireup="true" CodeBehind="PageTwo.aspx.cs" Inherits="Technical_HW_4.PageTwo" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Main.Master" AutoEventWireup="true" CodeBehind="PageFour.aspx.cs" Inherits="Technical_HW_4.PageFour" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
@@ -24,28 +24,13 @@
 
     <div id="container" class="col-12 mb-5 justify-content-center text-center">
 
-        <div id="form">
-            <h4>Order Medication Form</h4>
-            <label>Pet Owner's Name:</label>
-            <br />
-            <input type="text" />
-            <br />
-            <label>Doctor's Name:</label>
-            <br />
-            <input type="text" />
-            <br />
-            <label>Medication Name:</label>
-            <br />
-            <input type="text" />
-            <br />
-            <label>Prescription's Instructions:</label>
-            <br />
-            <input type="text" />
-            <br />
 
-            <button class="btn btn-success" type="submit">Submit</button>
 
-        </div>
+
+
+
+
+
+
     </div>
-
 </asp:Content>

@@ -84,6 +84,8 @@
     <Content Include="Content\bootstrap.rtl.css" />
     <Content Include="Content\bootstrap.rtl.min.css" />
     <Content Include="Default.aspx" />
+    <Content Include="PageFour.aspx" />
+    <Content Include="PageThree.aspx" />
     <Content Include="PageTwo.aspx" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
@@ -107,6 +109,20 @@
     </Compile>
     <Compile Include="Main.Master.designer.cs">
       <DependentUpon>Main.Master</DependentUpon>
+    </Compile>
+    <Compile Include="PageFour.aspx.cs">
+      <DependentUpon>PageFour.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PageFour.aspx.designer.cs">
+      <DependentUpon>PageFour.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PageThree.aspx.cs">
+      <DependentUpon>PageThree.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PageThree.aspx.designer.cs">
+      <DependentUpon>PageThree.aspx</DependentUpon>
     </Compile>
     <Compile Include="PageTwo.aspx.cs">
       <DependentUpon>PageTwo.aspx</DependentUpon>
