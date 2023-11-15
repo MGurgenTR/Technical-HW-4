@@ -70,7 +70,7 @@
                 </h2>
                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordianMedication">
                     <div class="accordion-body">
-                        Bravetco treats feals and ticks
+                        Bravetco treats fleas and ticks
                     </div>
                 </div>
             </div>
